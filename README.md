@@ -148,5 +148,9 @@ https://habr.com/ru/articles/872370/
 https://habr.com/ru/users/ira-k/
 https://habr.com/ru/articles/872676/
 https://habr.com/ru/articles/872656/
+
+https://www.youtube.com/watch?v=qZwT_NWQ6Mk&ab_channel=MaxLevelCode
+https://habr.com/ru/articles/873520/
+
 https://habr.com/ru/articles/871884/
 https://habr.com/ru/articles/868672/
