@@ -241,6 +241,11 @@ https://github.com/libevent/libevent/blob/master/sample/http-server.c
 https://habr.com/ru/articles/876160/
 https://habr.com/ru/news/876104/
 https://habr.com/ru/articles/767460/
+
+https://habr.com/ru/articles/876802/
+https://habr.com/ru/articles/876786/
+https://habr.com/ru/articles/876784/
+
 https://habr.com/ru/articles/875258/
 https://habr.com/ru/articles/874066/
 https://habr.com/ru/news/875184/
