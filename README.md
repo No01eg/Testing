@@ -259,3 +259,7 @@ https://habr.com/ru/articles/878156/
 https://habr.com/ru/articles/878170/
 https://habr.com/ru/articles/876804/
 https://habr.com/ru/articles/878140/
+https://habr.com/ru/articles/878784/
+https://habr.com/ru/articles/878734/
+https://habr.com/ru/articles/879096/
+https://habr.com/ru/companies/yadro/articles/878974/
