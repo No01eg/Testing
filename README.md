@@ -281,6 +281,14 @@ https://habr.com/ru/articles/881570/
 https://habr.com/ru/articles/880634/
 https://habr.com/ru/articles/879182/
 https://habr.com/ru/articles/879902/
+
+https://www.youtube.com/watch?v=SuTaWUnntjc&ab_channel=anonub
+https://dir.by/developer/wpf/datagrid_scrolling/
+https://github.com/alzybaad/ScrollingDataGridWithNoDataExample
+https://www.youtube.com/watch?v=_bK0zUrTFe8&ab_channel=MpCodes
+https://www.youtube.com/watch?v=oQY6mO4_MeI&ab_channel=tips%27ntricks%28Tips%26Tricks%29
+https://www.youtube.com/watch?v=RU0ULe2f6hI&ab_channel=ChrisKanich
+
 https://habr.com/ru/companies/magnit/articles/873366/
 https://habr.com/ru/articles/879992/
 https://habr.com/ru/companies/pt/articles/879828/
