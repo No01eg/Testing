@@ -326,6 +326,9 @@ https://wiki.qt.io/Building_Qt_5_from_Git#Getting_the_source_code
 https://www.qt.io/offline-installers
 https://habr.com/ru/articles/885878/
 https://habr.com/ru/articles/402241/
+
+https://habr.com/ru/news/887298/
+
 https://habr.com/ru/articles/543164/
 https://habr.com/ru/articles/394545/
 https://realtimelogic.com/articles/Designing-Your-First-Professional-Embedded-Web-Interface
