@@ -369,4 +369,12 @@ https://www.reddit.com/r/virtualization/comments/yc8h2f/qemu_on_windows/
 https://www.minitool.com/partition-disk/qemu-for-windows.html
 https://www.youtube.com/watch?v=CSKtG-LghhE&ab_channel=%D0%A7%D1%91%D1%80%D0%BD%D1%8B%D0%B9%D0%A2%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA
 
+https://habr.com/ru/articles/893594/
+https://habr.com/ru/articles/893592/
+https://habr.com/ru/companies/piter/articles/889994/
+https://habr.com/ru/articles/894736/
+https://habr.com/ru/articles/894728/
+https://habr.com/ru/companies/otus/articles/894174/
+https://habr.com/ru/news/894566/
+https://habr.com/ru/articles/894284/
 
