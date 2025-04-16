@@ -524,3 +524,8 @@ https://habr.com/ru/companies/yadro/articles/899446/
 https://www.xcom-shop.ru/configurator/powersupply/?utm_source=habr&utm_medium=pr&utm_campaign=nvidia_rasskazala_pochemu_goryat_videokarty_rtx50
 https://habr.com/ru/companies/x-com/articles/899896/
 https://habr.com/ru/companies/ruvds/articles/897958/
+https://habr.com/ru/companies/ruvds/articles/901356/
+https://habr.com/ru/companies/ru_mts/articles/901266/
+https://habr.com/ru/articles/901368/
+https://habr.com/ru/articles/900508/
+https://habr.com/ru/articles/900470/
