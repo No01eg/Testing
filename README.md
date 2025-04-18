@@ -532,3 +532,8 @@ https://habr.com/ru/articles/900470/
 
 
 https://habr.com/ru/articles/700470/
+
+https://habr.com/ru/articles/899556/
+https://habr.com/ru/articles/901556/
+https://habr.com/ru/companies/alfa/articles/896924/
+https://habr.com/ru/articles/901776/
