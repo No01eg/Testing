@@ -26,7 +26,6 @@ https://habr.com/ru/news/864864/
 https://habr.com/ru/companies/yadro/articles/863490/
 https://habr.com/ru/articles/864348/
 https://habr.com/ru/articles/340162/
-https://habr.com/ru/articles/862962/
 https://habr.com/ru/articles/862734/
 https://habr.com/ru/articles/860736/
 https://habr.com/ru/articles/862678/
