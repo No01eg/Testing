@@ -259,7 +259,7 @@ https://habr.com/ru/articles/878170/
 https://habr.com/ru/articles/876804/
 https://habr.com/ru/articles/878140/
 https://habr.com/ru/articles/878784/
-https://habr.com/ru/articles/878734/
+
 https://habr.com/ru/articles/879096/
 https://habr.com/ru/companies/yadro/articles/878974/
 
@@ -1295,6 +1295,26 @@ https://habr.com/ru/articles/906994/
 https://habr.com/ru/companies/aeza/articles/906946/
 https://habr.com/ru/articles/906942/
 
+https://habr.com/ru/articles/907142/
+https://habr.com/ru/articles/907794/
+https://habr.com/ru/articles/889402/
+https://habr.com/ru/articles/908434/
+https://habr.com/ru/articles/770506/
+https://habr.com/ru/articles/908388/
+https://habr.com/ru/articles/908386/
+https://habr.com/ru/companies/globalsign/articles/908382/
+https://habr.com/ru/articles/908374/
+https://habr.com/ru/articles/908242/
+https://habr.com/ru/companies/timeweb/articles/906158/
+https://habr.com/ru/articles/908576/
+https://habr.com/ru/articles/908518/
+https://habr.com/ru/articles/908518/
+https://habr.com/ru/articles/908558/
+https://habr.com/ru/news/908502/
+https://habr.com/ru/companies/lamptest/articles/908498/
+https://habr.com/ru/news/908830/
+https://habr.com/ru/articles/908730/
+https://habr.com/ru/articles/908700/
 
 https://habr.com/ru/articles/906736/
 https://habr.com/ru/news/906722/
@@ -1327,3 +1347,30 @@ https://habr.com/ru/articles/907754/
 https://habr.com/ru/news/907818/
 https://habr.com/ru/articles/907858/
 https://habr.com/ru/articles/907868/
+
+https://habr.com/ru/articles/908636/
+https://habr.com/ru/articles/908244/
+https://habr.com/ru/companies/rgs_it/articles/907560/
+https://habr.com/ru/articles/907312/
+https://habr.com/ru/companies/ruvds/articles/906124/
+https://habr.com/ru/articles/908170/
+https://habr.com/ru/companies/flipperdevices/articles/908110/
+https://habr.com/ru/articles/908112/
+https://habr.com/ru/articles/908100/
+https://habr.com/ru/articles/908086/
+https://habr.com/ru/articles/907144/
+https://habr.com/ru/companies/timeweb/articles/889206/
+https://habr.com/ru/articles/908904/
+https://habr.com/ru/articles/908900/
+https://habr.com/ru/companies/pvs-studio/news/908886/
+https://habr.com/ru/news/908860/
+https://habr.com/ru/companies/magnit/articles/908954/
+https://habr.com/ru/articles/908036/
+https://habr.com/ru/articles/908016/
+https://habr.com/ru/articles/907954/
+https://habr.com/ru/articles/907868/
+
+https://habr.com/ru/news/909006/
+https://habr.com/ru/companies/sberbank/articles/908998/
+https://habr.com/ru/companies/ggsel/articles/908996/
+https://habr.com/ru/articles/908032/
