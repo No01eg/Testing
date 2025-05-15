@@ -1396,3 +1396,5 @@ https://github.com/mkulesh/stm32WindowSensor/tree/master
 https://habr.com/ru/articles/482858/
 https://github.com/ahessling/RFM69-STM32
 https://lowpowerlab.com/forum/rf-range-antennas-rfm69-library/rf-frequency-with-an-overclocked-stm32-bluepill/
+
+https://habr.com/ru/companies/lure_it/articles/909076/
