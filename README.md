@@ -1398,3 +1398,23 @@ https://github.com/ahessling/RFM69-STM32
 https://lowpowerlab.com/forum/rf-range-antennas-rfm69-library/rf-frequency-with-an-overclocked-stm32-bluepill/
 
 https://habr.com/ru/companies/lure_it/articles/909076/
+
+https://habr.com/ru/articles/908810/
+https://habr.com/ru/articles/909700/
+https://habr.com/ru/articles/909566/
+https://habr.com/ru/companies/otus/articles/905924/
+https://habr.com/ru/companies/slurm/articles/909688/
+https://habr.com/ru/articles/909686/
+https://habr.com/ru/companies/bastion/articles/907362/
+https://habr.com/ru/articles/906212/
+https://habr.com/ru/companies/yadro/articles/909480/
+https://habr.com/ru/articles/909662/
+https://habr.com/ru/companies/wunderfund/articles/908402/
+https://habr.com/ru/companies/selectel/articles/909404/
+https://habr.com/ru/companies/timeweb/articles/906902/
+https://habr.com/ru/articles/909518/
+https://habr.com/ru/articles/909620/
+https://habr.com/ru/articles/909592/
+https://habr.com/ru/articles/909584/
+https://habr.com/ru/articles/909268/
+https://habr.com/ru/news/909846/
