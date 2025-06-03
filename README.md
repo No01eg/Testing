@@ -1703,3 +1703,17 @@ https://habr.com/ru/articles/914350/
 https://habr.com/ru/companies/piter/articles/914232/
 https://habr.com/ru/news/913980/
 https://habr.com/ru/companies/selectel/articles/914098/
+https://masich.ru/images/lectures-pdf/TCP/L4-2_TCP-SACK.pdf
+https://networkguru.ru/wireshark/
+https://habr.com/ru/articles/700470/
+https://habr.com/ru/articles/912630/
+https://habr.com/ru/companies/ibs/articles/914870/
+https://habr.com/ru/companies/raiffeisenbank/articles/912172/
+https://habr.com/ru/articles/914854/
+https://habr.com/ru/articles/914840/
+https://habr.com/ru/articles/914830/
+https://habr.com/ru/companies/lsfusion/articles/914236/
+https://habr.com/ru/companies/yandex_praktikum/articles/911586/
+https://habr.com/ru/companies/nanosoft/news/914580/
+https://habr.com/ru/articles/914780/
+https://habr.com/ru/news/914746/
