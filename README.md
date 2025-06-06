@@ -1716,17 +1716,12 @@ https://habr.com/ru/companies/lsfusion/articles/914236/
 https://habr.com/ru/companies/yandex_praktikum/articles/911586/
 https://habr.com/ru/companies/nanosoft/news/914580/
 https://habr.com/ru/articles/914780/
-https://habr.com/ru/news/914746/
 
 https://habr.com/ru/companies/ruvds/articles/910438/
-https://habr.com/ru/companies/friflex/articles/915610/
 https://habr.com/ru/articles/915562/
 https://habr.com/ru/companies/pvs-studio/articles/915494/
 https://habr.com/ru/companies/ruvds/articles/909540/
-https://habr.com/ru/companies/minerva_media/articles/915484/
 https://habr.com/ru/companies/selectel/articles/911642/
-https://habr.com/ru/companies/timeweb/articles/911392/
-https://habr.com/ru/companies/skbkontur/news/915476/
 https://habr.com/ru/articles/915450/
 
 
