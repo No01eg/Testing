@@ -15,12 +15,10 @@ https://habr.com/ru/companies/globalsign/articles/866806/
 https://habr.com/ru/articles/866798/
 https://habr.com/ru/articles/866486/
 https://habr.com/ru/companies/sovcombank_technologies/articles/865970/
-https://habr.com/ru/articles/865724/
-https://habr.com/ru/companies/otus/articles/864900/
-https://habr.com/ru/companies/yandex_cloud_and_infra/articles/863500/
-https://habr.com/ru/articles/864902/
+
+https://github.com/alexeyfv/object-pool
+
 https://habr.com/ru/companies/selectel/articles/864966/
-https://habr.com/ru/articles/864952/
 https://habr.com/ru/articles/864820/
 https://habr.com/ru/news/864864/
 https://habr.com/ru/companies/yadro/articles/863490/
@@ -1740,3 +1738,17 @@ https://diytronic.ru/2018/02/19/testing-and-reviewing-of-zephyr-os/
 https://cnx-software.ru/2021/11/01/status-podderzhki-zephyr-i-nuttx-rtos-dlya-esp32/
 
 -----------------------------------------------------------------
+https://microsin.net/programming/arm/zephyr-kconfig-configuration.html
+https://microsin.net/component/option,com_acesearch/lang,ru/query,zephyr/view,search/
+https://docs.zephyrproject.org/latest/build/dts/index.html
+https://www.youtube.com/watch?v=5UUS44S4kaQ
+https://www.youtube.com/watch?v=XimbF9M-kIU
+https://www.youtube.com/watch?v=vLSkHrBh5Cw
+https://www.youtube.com/watch?v=uAG5EVSWGKs
+https://docs.kernel.org/kbuild/kconfig-language.html
+https://habr.com/ru/articles/515398/
+https://docs.zephyrproject.org/latest/build/kconfig/index.html
+https://www.youtube.com/watch?v=0XS6ilLG-Co
+https://www.youtube.com/watch?v=vXAg_UbEurc
+https://www.youtube.com/@digikey/videos
+
