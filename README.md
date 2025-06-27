@@ -1712,8 +1712,7 @@ https://habr.com/ru/articles/914840/
 https://habr.com/ru/articles/914830/
 https://habr.com/ru/companies/lsfusion/articles/914236/
 https://habr.com/ru/companies/yandex_praktikum/articles/911586/
-https://habr.com/ru/companies/nanosoft/news/914580/
-https://habr.com/ru/articles/914780/
+
 
 https://habr.com/ru/companies/ruvds/articles/910438/
 https://habr.com/ru/articles/915562/
@@ -1722,32 +1721,23 @@ https://habr.com/ru/companies/ruvds/articles/909540/
 https://habr.com/ru/companies/selectel/articles/911642/
 https://habr.com/ru/articles/915450/
 
-https://habr.com/ru/articles/917876/
-https://habr.com/ru/companies/bothub/news/917870/
+
 https://habr.com/ru/companies/timeweb/articles/916824/
-https://habr.com/ru/companies/x-com/articles/917854/
-https://habr.com/ru/articles/917860/
-https://habr.com/ru/news/917848/
-https://habr.com/ru/companies/yandex_praktikum/articles/917740/
-https://habr.com/ru/news/917838/
-https://habr.com/ru/articles/917828/
-https://habr.com/ru/articles/917820/
-https://habr.com/ru/articles/915202/
+
+
+
+
 https://habr.com/ru/articles/916048/
-https://habr.com/ru/companies/bothub/news/917784/
-https://habr.com/ru/articles/917770/
+
 https://habr.com/ru/articles/917752/
-https://habr.com/ru/articles/917702/
+
 https://habr.com/ru/news/917750/
-https://habr.com/ru/articles/917724/
+
 https://habr.com/ru/companies/ruvds/articles/917484/
-https://habr.com/ru/articles/917626/
-https://habr.com/ru/companies/ru_mts/articles/916802/
+
 https://habr.com/ru/articles/917582/
 https://habr.com/ru/articles/916282/
-https://habr.com/ru/articles/917550/
 https://habr.com/ru/companies/skbkontur/articles/914868/
-https://habr.com/ru/companies/yadro/articles/917488/
 https://habr.com/ru/companies/minerva_media/articles/917482/
 
 
@@ -1786,4 +1776,11 @@ https://www.youtube.com/watch?v=MBPIv14dm94
 https://www.youtube.com/watch?v=j2jI1icKt_8
 https://www.youtube.com/watch?v=mTJ_vKlMS_4&t=472s
 https://www.youtube.com/watch?v=oOoyRDXzO6g
+
+https://habr.com/ru/companies/ruvds/articles/916636/
+https://habr.com/ru/articles/917944/
+https://habr.com/ru/companies/moyadoska/articles/917922/
+https://habr.com/ru/articles/917916/
+https://habr.com/ru/articles/917362/
+
 
