@@ -125,7 +125,7 @@ https://habr.com/ru/articles/439572/
 https://habr.com/ru/articles/439540/
 https://habr.com/ru/articles/436998/
 https://habr.com/ru/articles/434824/
-https://habr.com/ru/articles/432574/
+
 https://habr.com/ru/articles/432818/
 https://habr.com/ru/companies/thirdpin/articles/425569/
 https://habr.com/ru/articles/427011/
@@ -133,17 +133,17 @@ https://habr.com/ru/articles/426131/
 https://habr.com/ru/articles/420947/
 https://habr.com/ru/articles/419601/
 https://habr.com/ru/articles/358648/
+
+//!!!!!
 https://habr.com/ru/companies/thirdpin/articles/410853/
+
+
 https://habr.com/ru/articles/206124/
 https://habr.com/ru/articles/206036/
-https://habr.com/ru/articles/164381/
-https://habr.com/ru/articles/163767/
-https://habr.com/ru/articles/146987/
-https://habr.com/ru/articles/118773/
 https://habr.com/ru/articles/872370/
 
 https://habr.com/ru/users/ira-k/
-https://habr.com/ru/articles/872676/
+
 https://habr.com/ru/articles/872656/
 
 https://www.youtube.com/watch?v=qZwT_NWQ6Mk&ab_channel=MaxLevelCode
@@ -1678,12 +1678,12 @@ https://habr.com/ru/articles/914654/
 https://habr.com/ru/articles/914636/
 https://habr.com/ru/companies/ruvds/articles/913942/
 https://habr.com/ru/companies/ozontech/articles/903068/
-https://habr.com/ru/articles/913314/
+
 https://habr.com/ru/articles/914474/
 https://habr.com/ru/articles/914412/
 https://habr.com/ru/companies/megafon/articles/914372/
 https://habr.com/ru/news/913980/
-https://habr.com/ru/companies/selectel/articles/914098/
+
 https://masich.ru/images/lectures-pdf/TCP/L4-2_TCP-SACK.pdf
 https://networkguru.ru/wireshark/
 https://habr.com/ru/articles/700470/
