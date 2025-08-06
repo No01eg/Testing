@@ -22,7 +22,8 @@ https://www.instructables.com/2-bit-Communicators-RFM69/
 https://github.com/sparkfun/RFM69HCW_Breakout/blob/master/Libraries/Arduino/RFM69/RFM69.cpp
 https://forum.arduino.cc/t/rfm69hw-communication-not-working/1204075/7
 
-
+https://github.com/Seeed-Studio/Seeed_Arduino_AHT20/blob/master/src/ATH20.cpp
+https://github.com/ebrezadev/BMP280-Barometric-Pressure-and-Temperature-Sensor-C-Driver/blob/main/src/bmp280.c
 
 ------------------------
 https://onomondo.com/blog/at-command-cops/
