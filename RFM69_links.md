@@ -23,6 +23,7 @@ https://github.com/sparkfun/RFM69HCW_Breakout/blob/master/Libraries/Arduino/RFM6
 https://forum.arduino.cc/t/rfm69hw-communication-not-working/1204075/7
 
 https://github.com/Seeed-Studio/Seeed_Arduino_AHT20/blob/master/src/ATH20.cpp
+https://cdn-learn.adafruit.com/downloads/pdf/adafruit-aht20.pdf
 https://github.com/ebrezadev/BMP280-Barometric-Pressure-and-Temperature-Sensor-C-Driver/blob/main/src/bmp280.c
 
 ------------------------
