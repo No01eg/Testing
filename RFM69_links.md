@@ -26,6 +26,8 @@ https://github.com/Seeed-Studio/Seeed_Arduino_AHT20/blob/master/src/ATH20.cpp
 https://cdn-learn.adafruit.com/downloads/pdf/adafruit-aht20.pdf
 https://github.com/ebrezadev/BMP280-Barometric-Pressure-and-Temperature-Sensor-C-Driver/blob/main/src/bmp280.c
 
+https://help.reg.ru/support/servery-vps/oblachnyye-servery/ustanovka-programmnogo-obespecheniya/kak-ustanovit-docker-na-ubuntu#2
+
 ------------------------
 https://onomondo.com/blog/at-command-cops/
 https://habr.com/ru/articles/173415/
