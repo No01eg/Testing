@@ -27,6 +27,10 @@ https://cdn-learn.adafruit.com/downloads/pdf/adafruit-aht20.pdf
 https://github.com/ebrezadev/BMP280-Barometric-Pressure-and-Temperature-Sensor-C-Driver/blob/main/src/bmp280.c
 
 https://help.reg.ru/support/servery-vps/oblachnyye-servery/ustanovka-programmnogo-obespecheniya/kak-ustanovit-docker-na-ubuntu#2
+https://www.youtube.com/watch?v=4GF0pyS4fQA
+https://www.youtube.com/watch?v=TXcTzyswBMQ
+https://www.youtube.com/watch?v=und6sMsjSHc
+https://www.youtube.com/watch?v=nrdpRzF5tlU
 
 ------------------------
 https://onomondo.com/blog/at-command-cops/
