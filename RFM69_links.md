@@ -43,3 +43,6 @@ https://rsdn.org/
 https://github.com/pradyuman/socket-c/blob/master/httpclient.c
 https://github.com/commtech/serialfc-linux/blob/master/examples/rs485.c
 https://habr.com/ru/companies/ruvds/articles/871940/
+
+
+https://radiokot.ru/forum/viewtopic.php?t=21679
