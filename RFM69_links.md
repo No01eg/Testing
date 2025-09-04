@@ -47,3 +47,10 @@ https://habr.com/ru/companies/ruvds/articles/871940/
 
 https://radiokot.ru/forum/viewtopic.php?t=21679
 http://we.easyelectronics.ru/GYUR22/max13487-13488-vykinem-lishnee-iz-rs-485.html
+
+https://drive.google.com/drive/folders/1BJu-yuyzBMLqBVnsJ9XKoQY_cXUCUZK9
+https://drive.google.com/drive/folders/1B6FUiGnYqp3MwigziVhQXy7t6H5j3OJq
+https://disk.yandex.ru/d/EWFyjFOWgoc3eQ
+https://disk.yandex.ru/d/EWFyjFOWgoc3eQ
+https://disk.yandex.ru/d/Znrr5ma9bIOWSQ
+
